@@ -1,9 +1,19 @@
-# With the use of specific data found in Adventure works 2019 I was tasked to answer the following question:
+# AdevntureWorks2019 Analysis
 
-# What is the relationship between sick leave and Job Title?
+### Project Overview
 
-I used the following python libraries: pyodbc, pandas, matplotlib.
-I used the HumanResources.Employee table in the AdventureWorks2019 database which is part of the HumanResources schema. This table stores employee information such as job title, birth date, vacation hours and sick leave hours.
+This data analyst project aims to answer a set of questions using the AdventureWorks dataset, a demo dataset maintained by Microsoft. I will use my combined knowledge of SQL, Python, and data analytics to investigate the dataset and answer the following question:
+1) What is the relationship between sick leave and job title?
+
+### Tools
+
+- SQL Server
+  - I used the HumanResources.Employee table in the AdventureWorks2019 database which is part of the HumanResources schema. This table stores employee information such as job title, birth date, vacation hours and sick leave hours
+- Python
+  - Libraries: Pandas / Matplotlib / Numpy / pyodbc
+
+### Data Analysis
+
 
  
 SELECT *
