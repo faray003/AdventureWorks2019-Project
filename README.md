@@ -86,6 +86,7 @@ Does organisation level mean job ranking/responsibility, or does it mean the bus
 <br>
 <br>
 Next, I will import the SQL query into visual studio code and write code that will group the organisation level into four parts with each part having the mean of the average sick leave hours. I will then create a list and plot this data using a bar chart.
+
 ![image](https://github.com/faray003/Data-Analyst-Project-1/assets/167533153/33b2bdef-1de0-4d14-a29c-d4022425ce58)
 <br>
 <br>
