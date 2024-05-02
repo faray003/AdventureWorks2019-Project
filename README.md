@@ -3,12 +3,13 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Tools](#tools)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 
 ### Project Overview
 
-This data analyst project aims to answer a set of questions using the AdventureWorks dataset, a demo dataset maintained by Microsoft. I will use my combined knowledge of SQL, Python, and data analytics to investigate the dataset and answer the following question:
+This data analyst project aims to answer a set of questions using the AdventureWorks dataset, a demo dataset maintained by Microsoft. The dataset contains information about sales orders, customers, and products, as well as details about promotions and sales territories. I will use my combined knowledge of SQL, Python, and data analytics to investigate the dataset and answer the following question:
 1) What is the relationship between sick leave and job title?
 
 ### Tools
